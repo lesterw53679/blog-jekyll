@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+title:              Lester's Logic cloud Geospatial
+email:              lesterw53679@gmail.com
+description:        Lester's Logic cloud Geospatial
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            "/blog-jekyll"
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    lesterw53679
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
